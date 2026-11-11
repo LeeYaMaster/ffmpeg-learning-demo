@@ -1,0 +1,20 @@
+# 生成的示例素材与课时输出（体积较大，请用脚本重新生成）
+samples/*
+!samples/.gitkeep
+!samples/README.md
+output/*
+!output/.gitkeep
+
+# FFmpeg 两遍编码日志
+ffmpeg2pass-*.log
+*2pass*.log
+*.mbtree
+
+# 系统与编辑器杂项
+.DS_Store
+._*
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
